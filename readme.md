@@ -16,7 +16,7 @@
   [![Selenium](https://img.shields.io/badge/Selenium-4.1-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
   [![Chrome](https://img.shields.io/badge/Google-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
-  [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge)](https://github.com/aster-god/Amazon-ACO)
+  [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge)](https://github.com/aster-go/Amazon-ACO)
 
   <br />
 
@@ -98,7 +98,7 @@ flowchart TD
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/aster-god/Amazon-ACO.git
+git clone https://github.com/aster-go/Amazon-ACO.git
 cd Amazon-ACO
 ```
 
